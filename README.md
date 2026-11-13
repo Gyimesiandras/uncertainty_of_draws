@@ -1,5 +1,7 @@
 # Content
 
+Pots_years folder contains...
+
 data_2019-2026.xlsx contains data on Champions League (CL) participants from seasons 2019/20 to 2025/26 under both the group stage and the post-2024 iRR qualification rules.
 - Club: the id of the team
 - Elo: the Elo rating of the team on 1st September right before the corresponding season

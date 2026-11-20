@@ -9,7 +9,7 @@
   -If team was already chosen because of highest UEFA country coefficient, we pick the second best team 
   -No team from the added paths resulted in more than 5 teams from the same association
   -No 5 teams of the same association were present in the same pot of 9 teams
-  -dditional teams can be recognized because there pot and group are -1
+  -Additional teams can be recognized because there pot and group are -1
 
 - Draw_group_stage_real: new groups are formed based on the real pots
 - Draw_group_stage_elo: teams are sorted based on elo, first 8 go into pot 1, next 8 go in pot 2, and so on. Then, based on these pots, groups are formed

@@ -1,5 +1,5 @@
-- Draws based on the datsets in Groups_UEAFA_CL
-- Elo is derived from https://elofootball.com/
+- Draws based on the datsets in data/Groups_UEFA_CL
+- ClubElo is derived from clubelo.com. The ELO column is different and not used in the analysis.
 - Group is the group the club was drawn in that particular season 
 - Pot is the pot that club was present in
 - First 32 teams: teams present in the group stage of that season 
